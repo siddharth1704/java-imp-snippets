@@ -1,0 +1,7 @@
+"C:\Program Files\Java\jdk-15.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3.1\lib\idea_rt.jar=61033:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\sid17\Desktop\Idea-Projects\TechCodingMafia\target\classes tech.codingclub.utility.FileUtility
+This side is Siddharth Singh
+Runnung file utility atSat Feb 06 22:54:19 IST 2021
+File Created :false
+
+Process finished with exit code 0
+########################################
